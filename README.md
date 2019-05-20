@@ -1,5 +1,5 @@
 # article-retriever
-Provides ability to retrieve and save articles using WordPress REST API
+Provides ability to retrieve and save articles using WordPress REST API.
 
 # To run utility locally
 
@@ -31,7 +31,7 @@ Optionally, run tests.
 
     ./manage.py test
 
-Run utility.
+To retrieve and save the most recent 100 articles from TechCrunch, run the following management command.
 
     ./manage.py retrieve_techcrunch_top_100
 
