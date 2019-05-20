@@ -33,7 +33,7 @@ Optionally, run tests.
 
 Run utility.
 
-    ./manage.py retrieve_techcrunch_top_100.py
+    ./manage.py retrieve_techcrunch_top_100
 
 # View Results
 
