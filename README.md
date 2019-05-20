@@ -37,14 +37,14 @@ To retrieve and save the most recent 100 articles from TechCrunch, run the follo
 
 # View Results
 
-Run server locally 
+Run server locally. 
 
     ./manage.py runserver
     
-Navigate to admin page in webrowser 
+Navigate to admin page in web browser. 
 
     http://127.0.0.1:8000/admin/
     
-Log in using superuser
+Log in using superuser.
 
-View Articles
+View articles.
